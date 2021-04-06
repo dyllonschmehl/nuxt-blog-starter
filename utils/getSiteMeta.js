@@ -3,7 +3,7 @@ const url = 'https://dyllonschmehl.netlify.app/'; // CHANGE ME!
 const title = 'Dyllon Schmehl'; // CHANGE ME!
 const description = 'Dyllon Schmehl is a data scientist, web developer, and designer based in Houston Texas.'; // CHANGE ME!
 const mainImage = `${url}/social.png`;
-// const twitterSite = '@CL_Schmehl'; // CHANGE ME!
+const twitterSite = ''; // CHANGE ME!
 const twitterCard = 'summary_large_image';
 
 export default (meta) => {
