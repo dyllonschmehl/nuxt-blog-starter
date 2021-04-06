@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-You can just hit the ground running by changing all instances of my name ('Connor') to your own, and editing other content as you see fit (e.g. on the homepage in the `components/Hero.vue`, and on the about page in `pages/about/index.vue`). 
+You can just hit the ground running by changing all instances of my name ('Dyllon') to your own, and editing other content as you see fit (e.g. on the homepage in the `components/Hero.vue`, and on the about page in `pages/about/index.vue`). 
 
 ### Creating blog posts
 
@@ -49,11 +49,11 @@ You can also include a few custom components I've made:
 
 ### Info boxes!
 
-**[`InfoBox.vue`](https://github.com/connorrothschild/nuxt-blog-starter/blob/master/components/global/InfoBox.vue)** is component that allows you to put notes/warnings/messages in your blog posts. Feel free to edit the component to adjust its styling.
+**[`InfoBox.vue`](https://github.com/dyllonschmehl/nuxt-blog-starter/blob/master/components/global/InfoBox.vue)** is component that allows you to put notes/warnings/messages in your blog posts. Feel free to edit the component to adjust its styling.
 
 ### Better images!
 
-**[`InlineImage.vue`](https://github.com/connorrothschild/nuxt-blog-starter/blob/master/components/global/InlineImage.vue)** optimizes and handles the messy parts of images. 
+**[`InlineImage.vue`](https://github.com/dyllonschmehl/nuxt-blog-starter/blob/master/components/global/InlineImage.vue)** optimizes and handles the messy parts of images. 
 
 In specific, it:
 
@@ -62,7 +62,7 @@ In specific, it:
 
 ### Videos!
 
-**[`ResponsiveVideo.vue`](https://github.com/connorrothschild/nuxt-blog-starter/blob/master/components/global/ResponsiveVideo.vue)** takes a YouTube url (or otherwise embeddable video link) and makes it responsive.
+**[`ResponsiveVideo.vue`](https://github.com/dyllonschmehl/nuxt-blog-starter/blob/master/components/global/ResponsiveVideo.vue)** takes a YouTube url (or otherwise embeddable video link) and makes it responsive.
 
 You can see all of these components in action in the [sample blog post](https://nuxt-blog-starter.netlify.app/post/welcome).
 
@@ -118,4 +118,4 @@ To update your OG image that will appear in Twitter Cards, iMessages, etc., repl
 
 ## Need help?
 
-That should be it! Is anything unclear, or want to see some other functionality? Open an issue, or message me on Twitter [@CL_Rothschild](https://twitter.com/CL_Rothschild).
+That should be it! Is anything unclear, or want to see some other functionality? Open an issue, or message me on Twitter [@CL_Schmehl](https://twitter.com/CL_Schmehl).

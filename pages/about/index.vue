@@ -9,7 +9,7 @@
             <span style="margin-left: 1rem">About Me</span>
           </h1>
           <p>
-            Hey, I'm Connor! I made this template. If you're reading this, you
+            Hey, I'm Dyllon! I made this template. If you're reading this, you
             should probably be changing the content on this page. You can do
             that in <code>pages/about/index.vue</code>.
           </p>
@@ -39,7 +39,7 @@ export default {
   },
   head() {
     return {
-      title: "About | Connor Rothschild",
+      title: "About | Dyllon Schmehl",
       meta: [...this.meta],
       link: [
         {

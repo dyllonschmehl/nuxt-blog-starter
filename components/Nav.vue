@@ -7,7 +7,7 @@
   >
     <div class="navbar-brand">
       <NuxtLink class="navbar-item" to="/">
-        <span class="has-text-weight-boldest">Connor Rothschild</span>
+        <span class="has-text-weight-boldest">Dyllon Schmehl</span>
       </NuxtLink>
 
       <a
@@ -33,14 +33,14 @@
         <NuxtLink class="navbar-item" :to="{ path: '/post' }"> Blog </NuxtLink>
         <!-- Have a resume hosted online somewhere? Uncomment below and add your resume link to the href! -->
         <!-- Or, change the text of 'Resume' to anything else you want to link to! (Twitter, GitHub, etc): -->
-        <!-- <a
+        <a
           class="navbar-item"
-          href="https://docs.google.com/document/d/1qBH-wNMe2nv9Xa4uzHZ5wBevohwKuB3h2i9M2yk4POk/edit?usp=sharing"
+          href="https://drive.google.com/file/d/12EY4KOuCQYu6bPlbnbKcSceb3vSs6WYb/view?usp=sharing"
           rel="noopener noreferrer"
           target="_blank"
         >
           Resume
-        </a> -->
+        </a>
       </div>
     </div>
   </nav>

@@ -63,7 +63,7 @@ export default {
   },
   head() {
     return {
-      title: `${this.post.title} | Connor Rothschild`,
+      title: `${this.post.title} | Dyllon Schmehl`,
       meta: [
         ...this.meta,
         {
@@ -75,7 +75,7 @@ export default {
           content: this.post.updatedAt,
         },
         { name: "twitter:label1", content: "Written by" },
-        { name: "twitter:data1", content: "Connor Rothschild" },
+        { name: "twitter:data1", content: "Dyllon Schmehl" },
       ],
       link: [
         {

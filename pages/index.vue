@@ -16,7 +16,7 @@ export default {
   },
   head() {
     return {
-      title: "Connor Rothschild",
+      title: "Dyllon Schmehl",
       meta: [...this.meta],
     };
   },

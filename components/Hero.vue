@@ -11,7 +11,7 @@
             <NuxtLink
               :to="{ path: '/about' }"
               class="has-text-weight-boldest link"
-              >Connor Rothschild</NuxtLink
+              >Dyllon Schmehl</NuxtLink
             >!
           </h1>
           <p class="is-size-5 content max-width-78ch">

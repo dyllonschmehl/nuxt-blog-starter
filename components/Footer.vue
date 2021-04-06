@@ -4,14 +4,14 @@
       <p>
         Built by
         <a
-          href="https://twitter.com/CL_Rothschild"
+          href="https://twitter.com/CL_Schmehl"
           target="_blank"
           rel="noopener noreferrer"
           class="link"
-          >Connor Rothschild</a
+          >Dyllon Schmehl</a
         >. The source code is available on
         <a
-          href="https://github.com/connorrothschild/nuxt-blog-starter"
+          href="https://github.com/dyllonschmehl/nuxt-blog-starter"
           target="_blank"
           rel="noopener noreferrer"
           class="link"

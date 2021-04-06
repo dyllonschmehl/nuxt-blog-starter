@@ -30,7 +30,7 @@ export default {
   },
   head() {
     return {
-      title: "Posts | Connor Rothschild",
+      title: "Posts | Dyllon Schmehl",
       meta: [...this.meta],
       link: [
         {
