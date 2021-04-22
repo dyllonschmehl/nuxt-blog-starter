@@ -17,7 +17,7 @@
             >!
           </h1>
           <p class="is-size-5 content max-width-78ch">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Academically curious with a hunger for success.
           </p>
           <p class="is-size-5 content max-width-78ch">
             Read some of my
