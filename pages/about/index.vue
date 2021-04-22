@@ -9,14 +9,17 @@
             <span style="margin-left: 1rem">About Me</span>
           </h1>
           <p>
-            Hey, I'm Dyllon! I made this template. If you're reading this, you
-            should probably be changing the content on this page. You can do
-            that in <code>pages/about/index.vue</code>.
+            Hey, I'm Dyllon! I'm a consultant, investor, and entrepreneur based
+            in Houston, Texas. I am currently working for Oliver Wyman in
+            Management Consulting.
           </p>
           <p>
-            Want to change the image above? (Hopefully!) Add your own in
-            <code>assets/images</code>. You can replace mine and title yours
-            <code>me.jpg</code> (or, rename it and change the file path above).
+            I am extremely passionate about my current entrepreneurial venture,
+            Xplor. My co-founder, Brandon Cua, and I are dedicated to
+            democratizing career and life mentorship for students of all
+            backgrounds. We are creating a social platform to provide the
+            guidance and resources missed by current services impacting this
+            space.
           </p>
         </div>
       </article>

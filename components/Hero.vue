@@ -5,7 +5,9 @@
     <div class="hero-body">
       <div>
         <div>
-          <h2 class="subtitle heading is-size-5">Dogs, Cats, and Code</h2>
+          <h2 class="subtitle heading is-size-5">
+            Consulting, Investing, and Entrepreneurship
+          </h2>
           <h1 class="title is-size-huge has-text-weight-bold">
             Hi, I'm
             <NuxtLink
